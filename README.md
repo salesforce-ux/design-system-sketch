@@ -1,4 +1,4 @@
-# Lightning Desgn System Plugin for Sketch
+# Lightning Design System Plugin for Sketch
 
 The Lightning Design System Plugin for Sketch surfaces SLDS components, icons, wireframes, and artboards as Sketch symbols—along with system documentation—from within many designers' favorite design tool.
 
