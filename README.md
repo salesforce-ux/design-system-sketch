@@ -1,4 +1,4 @@
-# Lightning Design System Plugin for Sketch [No Longer Supported]
+#  [End-of-Support] Lightning Design System Plugin for Sketch ```
 
 > As of 246, The Lightning Design System Plugin for Sketch is no longer supported & actively maintained by the contributors.
 
