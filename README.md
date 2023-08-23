@@ -1,4 +1,4 @@
-#  [End-of-Support] Lightning Design System Plugin for Sketch ```
+#  [End-of-Support] Lightning Design System Plugin for Sketch
 
 ## 📣 Disclaimer
 
